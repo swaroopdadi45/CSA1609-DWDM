@@ -1,0 +1,33 @@
+if((num2)==0){
+
+"Enter
+
+a number : "))
+
+print('Number
+
+ii.
+
+(prompt =
+
+is even')
+
+} else { print('Number is odd')
+
+hum-as. integer (readline (prompt =
+
+if((num 2) == 0) {
+
+"Enter
+
+a number : "))
+
+print('Number is
+
+even')
+
+else {
+
+}
+
+print('Number is odd')
