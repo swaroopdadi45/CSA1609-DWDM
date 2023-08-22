@@ -1,0 +1,13 @@
+# Load the dataset
+
+data(mtcars)
+
+# Perform multiple regression
+
+model <- lm(mpg ~ wt + hp + qsec, data = mtcars)
+
+# Print summary of the regression model
+
+summary(model)
+
+
